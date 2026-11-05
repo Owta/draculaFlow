@@ -11,7 +11,7 @@ i=0
 arr=()
 
 # Default file path
-FILE_PATH="/home/alpha/Documents/quotes.txt"
+FILE_PATH="$HOME/Projects/draculaFlow/quotes.txt"
 
 # Allow the user to specify a custom file path
 if [[ ! -z "$1" ]]; then
