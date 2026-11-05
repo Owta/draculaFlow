@@ -16,6 +16,6 @@ A simple Bash script that displays a random Dracula Flow quote when run, or when
 ## Usage
 
 ```bash
-bash <path to quotify.sh>
+bash <path to draculaFlow.sh>
 ```
 Keep Quotes.txt file in the same folder with dracula.sh
